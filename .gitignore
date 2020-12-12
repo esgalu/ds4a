@@ -6,3 +6,5 @@ data_depurada/KAGGLE_INCOME.csv
 data_depurada/NationalOutbreakPublicDataTool.csv
 data_depurada/water_usage.csv
 data_depurada/water_usage_dictionary.csv
+*.csv
+*.pyc
